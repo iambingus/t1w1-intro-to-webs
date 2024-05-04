@@ -1,1 +1,6 @@
-# t1w1-intro-to-webs
+# My Intro to HTML and CSS
+
+- New Repository
+- VSCode to create and edit CSS
+- Preview HTML
+- Boilerplates
