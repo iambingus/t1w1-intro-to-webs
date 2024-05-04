@@ -2,3 +2,32 @@ h1{
     color: rgb(255, 200, 0);
     background-color: black;
 }
+h2{
+    color: black;
+    background-color: rgb(255, 191, 0);
+}
+
+/* article > p {
+    font: size 10px;
+} */
+
+.article_p{
+    font-size: 1rem;
+}
+
+#footer_p{
+    color: yellow;
+    background-color: black;
+}
+
+li{
+    background-color: beige;
+}
+
+li:nth-child(2n){
+    background-color: rgb(255, 170, 0);
+}
+
+img{
+    max-width: 50vw;
+}
